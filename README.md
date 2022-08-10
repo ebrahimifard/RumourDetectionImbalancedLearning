@@ -9,6 +9,9 @@ We first provide two datasets by collecting and annotating tweets regarding the 
 The following figure displays the performance of the classifiers using PR curve.
 ![rESULTS](https://user-images.githubusercontent.com/70349945/184041273-da50abd1-01f3-4c02-8151-d1e01688da9d.JPG)
 
+## Data
+To get access the data, please contact the main author.
+
 ## Access
 To get access to the full paper, please visit [paper webpage](https://link.springer.com/chapter/10.1007/978-3-030-50423-6_48), or contact the main author. 
 
